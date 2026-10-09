@@ -1,3 +1,0 @@
-export POSTGRES_PASSWORD=~"postgres"
-
-DOCKERHUB_USERNAME="jopie"
